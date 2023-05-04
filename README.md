@@ -1,1 +1,1 @@
-Practice: Contact Form stylization and style
+Practice: Contact Form custom stylization.
